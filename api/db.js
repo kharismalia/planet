@@ -2,7 +2,7 @@ import pkg from "pg";
 const  {Client} = pkg;
 
 export const client = new Client({
-    host: "db.wrpfzumzxvimdvoifled.supabase.co",
+    host: "db.aynklbjckvcsqoieakgj.supabase.co",
     user: "postgres",
     password: "amaliarisma2301",
     database: "postgres",
